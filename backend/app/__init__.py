@@ -1,0 +1,1 @@
+"""Stateless FSC classifier backend."""
