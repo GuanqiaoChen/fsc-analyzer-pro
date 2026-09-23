@@ -1,0 +1,10 @@
+{
+  "publisher": "Defense Logistics Agency",
+  "title": "Federal Supply Class Assignments to DLA/GSA, Table 1",
+  "source_file": "AV_FSCClassAssignment._151007.pdf",
+  "source_url": "https://www.dla.mil/Portals/104/Documents/Aviation/AviationEngineering/Engineering/AV_FSCClassAssignment._151007.pdf",
+  "converted_on": "2026-09-23",
+  "source_sha256": "d4a3368a729e66c3257f70415b398fb910542ebdb61585892dba471aee4e48dd",
+  "record_count": 580,
+  "note": "Converted from the exact assignment-supplied PDF. Static reference; covers the listed DLA/GSA assignments."
+}

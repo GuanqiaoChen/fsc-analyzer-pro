@@ -1,0 +1,2322 @@
+[
+  {
+    "code": "1005",
+    "description": "Guns, thru 30 mm"
+  },
+  {
+    "code": "1010",
+    "description": "Guns, over 30 mm to 75 mm"
+  },
+  {
+    "code": "1015",
+    "description": "Guns, 75 mm - 125 mm"
+  },
+  {
+    "code": "1020",
+    "description": "Guns, over 125 mm - 150 mm"
+  },
+  {
+    "code": "1025",
+    "description": "Guns, over 150 mm - 200 mm"
+  },
+  {
+    "code": "1030",
+    "description": "Guns, over 200 mm - 300 mm"
+  },
+  {
+    "code": "1035",
+    "description": "Guns, over 300 mm"
+  },
+  {
+    "code": "1040",
+    "description": "Chemical Weapons & Equipment"
+  },
+  {
+    "code": "1045",
+    "description": "Launchers, Torpedoes & Depth Charge"
+  },
+  {
+    "code": "1055",
+    "description": "Launchers, Grenade, Rocket and Pyrotechnic"
+  },
+  {
+    "code": "1075",
+    "description": "Degaussing and Mine Sweep Equipment"
+  },
+  {
+    "code": "1080",
+    "description": "Camouflage and Deception Equipment"
+  },
+  {
+    "code": "1090",
+    "description": "Assemblies Interchangeable Between Weapons in 2 or More Classes"
+  },
+  {
+    "code": "1095",
+    "description": "Miscellaneous Weapons"
+  },
+  {
+    "code": "1210",
+    "description": "Fire Control Directors"
+  },
+  {
+    "code": "1220",
+    "description": "Fire Control Computing Sights and Devices"
+  },
+  {
+    "code": "1240",
+    "description": "Optical Sight and Range Equipment"
+  },
+  {
+    "code": "1250",
+    "description": "Fire Control Stabilizing Mechanisms"
+  },
+  {
+    "code": "1260",
+    "description": "Fire Control Designating and Indicating Equipment"
+  },
+  {
+    "code": "1265",
+    "description": "Fire Control Transmitting and Receiving Equipment, Except Airborne"
+  },
+  {
+    "code": "1270",
+    "description": "Aircraft Gunnery Fire Control Components"
+  },
+  {
+    "code": "1280",
+    "description": "Aircraft Bombing Fire Control Components"
+  },
+  {
+    "code": "1285",
+    "description": "Fire Control Radar Equipment, Except Airborne"
+  },
+  {
+    "code": "1287",
+    "description": "Fire Control Sonar Equipment"
+  },
+  {
+    "code": "1290",
+    "description": "Miscellaneous Fire Control Equipment"
+  },
+  {
+    "code": "1420",
+    "description": "Guided Missile Components"
+  },
+  {
+    "code": "1430",
+    "description": "Guided Missile Remote Control Systems"
+  },
+  {
+    "code": "1440",
+    "description": "Launchers, Guided Missile"
+  },
+  {
+    "code": "1450",
+    "description": "Guided Missile Handling and Servicing Equipment"
+  },
+  {
+    "code": "1560",
+    "description": "Airframe Structural Components"
+  },
+  {
+    "code": "1610",
+    "description": "Aircraft Propellers"
+  },
+  {
+    "code": "1615",
+    "description": "Helicopter Rotor Blades, Drive Mechanisms and Components"
+  },
+  {
+    "code": "1620",
+    "description": "Aircraft Landing Gear Components"
+  },
+  {
+    "code": "1630",
+    "description": "Aircraft Wheel and Brake Systems"
+  },
+  {
+    "code": "1650",
+    "description": "Aircraft Hydraulic, Vacuum and De-icing System Components"
+  },
+  {
+    "code": "1660",
+    "description": "Aircraft Air Conditioning, Heat and Pressurizing Equipment"
+  },
+  {
+    "code": "1670",
+    "description": "Parachutes; Aerial Pick Up, Delivery, Recovery Systems; and Cargo Tie Down Equipment"
+  },
+  {
+    "code": "1680",
+    "description": "Miscellaneous Aircraft Accessories and Components"
+  },
+  {
+    "code": "1710",
+    "description": "Aircraft Arrest, Barrier and Barricade Equipment"
+  },
+  {
+    "code": "1720",
+    "description": "Aircraft Launching Equipment"
+  },
+  {
+    "code": "1730",
+    "description": "Aircraft Ground Servicing Equipment"
+  },
+  {
+    "code": "1740",
+    "description": "Airfield Specialized Trucks and Trails"
+  },
+  {
+    "code": "1820",
+    "description": "Space Vehicle Components"
+  },
+  {
+    "code": "1830",
+    "description": "Space Vehicle Remote Control Systems"
+  },
+  {
+    "code": "1840",
+    "description": "Space Vehicle Launchers"
+  },
+  {
+    "code": "1850",
+    "description": "Space Vehicle Handling and Servicing Equipment"
+  },
+  {
+    "code": "1860",
+    "description": "Space Survival Equipment"
+  },
+  {
+    "code": "2010",
+    "description": "Ship and Boat Propulsion Components"
+  },
+  {
+    "code": "2020",
+    "description": "Rigging and Rigging Gear"
+  },
+  {
+    "code": "2030",
+    "description": "Deck Machinery"
+  },
+  {
+    "code": "2040",
+    "description": "Marine Hardware and Hull Items"
+  },
+  {
+    "code": "2050",
+    "description": "Buoys"
+  },
+  {
+    "code": "2060",
+    "description": "Commercial Fishing Equipment"
+  },
+  {
+    "code": "2090",
+    "description": "Miscellaneous Ship Marine Equipment"
+  },
+  {
+    "code": "2230",
+    "description": "Right-of-Way Construction and Maintenance Equipment, Railroad"
+  },
+  {
+    "code": "2240",
+    "description": "Locomotive and Rail Car Access and Components"
+  },
+  {
+    "code": "2250",
+    "description": "Track Materials, Railroad"
+  },
+  {
+    "code": "2310",
+    "description": "Passenger Motor Vehicles"
+  },
+  {
+    "code": "2320",
+    "description": "Trucks and Truck Tractors, Wheeled"
+  },
+  {
+    "code": "2330",
+    "description": "Trailers"
+  },
+  {
+    "code": "2340",
+    "description": "Motorcycles, Motor Scooters, and Bicycles"
+  },
+  {
+    "code": "2410",
+    "description": "Tractors, Full Track, Low Speed"
+  },
+  {
+    "code": "2420",
+    "description": "Tractors, Wheeled"
+  },
+  {
+    "code": "2430",
+    "description": "Tractors, Track Laying High Speed"
+  },
+  {
+    "code": "2510",
+    "description": "Vehicle Cab, Body and Frame Structural Components"
+  },
+  {
+    "code": "2520",
+    "description": "Vehicle Power Transmission Components"
+  },
+  {
+    "code": "2530",
+    "description": "Vehicle Brake, Steer Axle, Wheel and Track Components"
+  },
+  {
+    "code": "2540",
+    "description": "Vehicle Furniture and Accessories"
+  },
+  {
+    "code": "2541",
+    "description": "Weapon Systems Specific Vehicular Accessories"
+  },
+  {
+    "code": "2590",
+    "description": "Miscellaneous Vehicle Components"
+  },
+  {
+    "code": "2620",
+    "description": "Tires and Tubes, Pneumatic, Aircraft"
+  },
+  {
+    "code": "2805",
+    "description": "Gas Reciprocating Engine and Components, Except Aircraft"
+  },
+  {
+    "code": "2810",
+    "description": "Gas Reciprocating Engine and Components, Aircraft"
+  },
+  {
+    "code": "2815",
+    "description": "Diesel Engine and Components"
+  },
+  {
+    "code": "2820",
+    "description": "Steam Engine, Reciprocating, and Components"
+  },
+  {
+    "code": "2825",
+    "description": "Steam Turbines and Components"
+  },
+  {
+    "code": "2830",
+    "description": "Water Turbines and Wheels, and Components"
+  },
+  {
+    "code": "2835",
+    "description": "Gas Turbines, Jet Engine and Components, Except Aircraft"
+  },
+  {
+    "code": "2840",
+    "description": "Gas Turbines, Jet Engine and Components, Aircraft"
+  },
+  {
+    "code": "2845",
+    "description": "Rocket Engine and Components"
+  },
+  {
+    "code": "2850",
+    "description": "Gas Rotary Engine and Components"
+  },
+  {
+    "code": "2895",
+    "description": "Miscellaneous Engine and Components"
+  },
+  {
+    "code": "2910",
+    "description": "Engine Fuel Systems Components, Except Aircraft"
+  },
+  {
+    "code": "2915",
+    "description": "Engine Fuel Systems Components, Aircraft"
+  },
+  {
+    "code": "2920",
+    "description": "Engine Electrical Systems Components, Except Aircraft"
+  },
+  {
+    "code": "2925",
+    "description": "Engine Electrical Systems Components, Aircraft"
+  },
+  {
+    "code": "2930",
+    "description": "Engine Cooling Systems Components, Except Aircraft"
+  },
+  {
+    "code": "2935",
+    "description": "Engine Cooling Systems Components, Aircraft"
+  },
+  {
+    "code": "2940",
+    "description": "Engine Air and Oil Filters, Strainers and Cleaners, Except Aircraft"
+  },
+  {
+    "code": "2945",
+    "description": "Engine Air and Oil Filters, Strainers and Cleaners, Aircraft"
+  },
+  {
+    "code": "2950",
+    "description": "TurboSupercharger"
+  },
+  {
+    "code": "2990",
+    "description": "Miscellaneous Engine Accessories, Except Aircraft"
+  },
+  {
+    "code": "2995",
+    "description": "Miscellaneous Engine Accessories, Aircraft"
+  },
+  {
+    "code": "3010",
+    "description": "Torque Converters and Speed Changers"
+  },
+  {
+    "code": "3020",
+    "description": "Gears, Pulleys, Sprockets, and Transmission Chain"
+  },
+  {
+    "code": "3030",
+    "description": "Belting, Drive Belts, Fan Belts, and Accessories"
+  },
+  {
+    "code": "3040",
+    "description": "Miscellaneous Power Trans Equipment"
+  },
+  {
+    "code": "3110",
+    "description": "Bearings, Anti-friction, Unmounted"
+  },
+  {
+    "code": "3120",
+    "description": "Bearings, Plain, Unmounted"
+  },
+  {
+    "code": "3130",
+    "description": "Bearings, Mounted"
+  },
+  {
+    "code": "3210",
+    "description": "Sawmill and Planing Mill Machinery"
+  },
+  {
+    "code": "3220",
+    "description": "Woodworking Machine"
+  },
+  {
+    "code": "3230",
+    "description": "Tools and Attachments for Woodworking Machine"
+  },
+  {
+    "code": "3405",
+    "description": "Saws and Filing Machine"
+  },
+  {
+    "code": "3408",
+    "description": "Machining Centers and Way-Type Machine"
+  },
+  {
+    "code": "3410",
+    "description": "Electric and Ultrasonic Erosion Machine"
+  },
+  {
+    "code": "3411",
+    "description": "Boring Machine"
+  },
+  {
+    "code": "3412",
+    "description": "Broaching Machine"
+  },
+  {
+    "code": "3413",
+    "description": "Drilling and Tapping Machine"
+  },
+  {
+    "code": "3414",
+    "description": "Gear Cutting and Finishing Machines"
+  },
+  {
+    "code": "3415",
+    "description": "Grinding Machine"
+  },
+  {
+    "code": "3416",
+    "description": "Lathes"
+  },
+  {
+    "code": "3417",
+    "description": "Milling Machine"
+  },
+  {
+    "code": "3418",
+    "description": "Planers and Shapers"
+  },
+  {
+    "code": "3419",
+    "description": "Machines, Tools Miscellaneous"
+  },
+  {
+    "code": "3422",
+    "description": "Rolling Mills and Drawing Machines"
+  },
+  {
+    "code": "3424",
+    "description": "Metal Heat Treat and Non-Thermal Treat Equipment"
+  },
+  {
+    "code": "3426",
+    "description": "Metal Finishing Equipment"
+  },
+  {
+    "code": "3431",
+    "description": "Elect Arc Welding Equipment"
+  },
+  {
+    "code": "3432",
+    "description": "Elect Resistance Welding Equipment"
+  },
+  {
+    "code": "3433",
+    "description": "Gas Welding, Heat Cutting, and Metalizing Equipment"
+  },
+  {
+    "code": "3436",
+    "description": "Welding Positioners and Manipulators"
+  },
+  {
+    "code": "3438",
+    "description": "Miscellaneous Welding Equipment"
+  },
+  {
+    "code": "3439",
+    "description": "Miscellaneous Welding, Soldering and Brazing Supplies and Accessories"
+  },
+  {
+    "code": "3441",
+    "description": "Bending and Forming Machinery"
+  },
+  {
+    "code": "3442",
+    "description": "Hydraulic and Pneumatic Presses, Power Driven"
+  },
+  {
+    "code": "3443",
+    "description": "Mechanisms Presses, Power Driven"
+  },
+  {
+    "code": "3444",
+    "description": "Manual Presses"
+  },
+  {
+    "code": "3445",
+    "description": "Punching and Shearing Machinery"
+  },
+  {
+    "code": "3446",
+    "description": "Forging Machines and Hammers"
+  },
+  {
+    "code": "3447",
+    "description": "Wire and Metal Ribbon Form Machinery"
+  },
+  {
+    "code": "3448",
+    "description": "Riveting Machinery"
+  },
+  {
+    "code": "3449",
+    "description": "Miscellaneous Secondary Metal Forming and Cutting Machinery"
+  },
+  {
+    "code": "3450",
+    "description": "Machinery Tools, Portable"
+  },
+  {
+    "code": "3455",
+    "description": "Cutting Tools for Machinery Tools"
+  },
+  {
+    "code": "3456",
+    "description": "Cutting and Forming Tools for Secondary Metalworking Machinery"
+  },
+  {
+    "code": "3460",
+    "description": "Machine Tool Accessories"
+  },
+  {
+    "code": "3461",
+    "description": "Accessories for Secondary Metalworking Machinery"
+  },
+  {
+    "code": "3465",
+    "description": "Production Jigs, Fixtures and Templates"
+  },
+  {
+    "code": "3470",
+    "description": "Machine Shop Sets, Kits and Outfits"
+  },
+  {
+    "code": "3510",
+    "description": "Laundry and Dry Cleaning Equipment"
+  },
+  {
+    "code": "3520",
+    "description": "Shoe Repairing Equipment"
+  },
+  {
+    "code": "3530",
+    "description": "Industrial Sew Mach and Mobile Textile Repair Shops"
+  },
+  {
+    "code": "3540",
+    "description": "Wrapping and Packaging Machines"
+  },
+  {
+    "code": "3550",
+    "description": "Vending and Coin Operating Machines"
+  },
+  {
+    "code": "3590",
+    "description": "Miscellaneous Service and Trade Equipment"
+  },
+  {
+    "code": "3605",
+    "description": "Food Products Machinery and Equipment"
+  },
+  {
+    "code": "3610",
+    "description": "Print, Duplicating, and Bookbinding Equipment"
+  },
+  {
+    "code": "3611",
+    "description": "Industrial Marking Machinery"
+  },
+  {
+    "code": "3615",
+    "description": "Pulp and Paper Industries Machinery"
+  },
+  {
+    "code": "3620",
+    "description": "Rubber and Plastics Working Machinery"
+  },
+  {
+    "code": "3625",
+    "description": "Textile Industries Machinery"
+  },
+  {
+    "code": "3630",
+    "description": "Clay and Concrete Industries Machinery"
+  },
+  {
+    "code": "3635",
+    "description": "Crystal and Glass Industries Machinery"
+  },
+  {
+    "code": "3640",
+    "description": "Tobacco Manufacturing Machinery"
+  },
+  {
+    "code": "3645",
+    "description": "Leather Tanning and Leather Working Machinery"
+  },
+  {
+    "code": "3650",
+    "description": "Chemical and Pharmaceutical Manufacturing Machinery"
+  },
+  {
+    "code": "3655",
+    "description": "Gas Generating and Dispensing Systems Fixed or Mobile"
+  },
+  {
+    "code": "3660",
+    "description": "Industrial Size Reduction Machinery"
+  },
+  {
+    "code": "3670",
+    "description": "Specialized Semiconductor, Microcircuit and Printed Circuit Board Manufacturing Machinery"
+  },
+  {
+    "code": "3680",
+    "description": "Foundry Mach, Related Equipment and Supplies"
+  },
+  {
+    "code": "3685",
+    "description": "Specialized Metal Container Manufacturing Machinery and Related Equipment"
+  },
+  {
+    "code": "3690",
+    "description": "Specialized Ammo and Ordnance Machinery and Related Equipment"
+  },
+  {
+    "code": "3693",
+    "description": "Industrial Assembly Machinery"
+  },
+  {
+    "code": "3694",
+    "description": "Clean Work Stations, Control Environment and Related Equipment"
+  },
+  {
+    "code": "3695",
+    "description": "Miscellaneous Specialized Industry Machinery"
+  },
+  {
+    "code": "3710",
+    "description": "Soil Preparation Equipment"
+  },
+  {
+    "code": "3720",
+    "description": "Harvesting Equipment"
+  },
+  {
+    "code": "3730",
+    "description": "Dairy, Poultry, Livestock Equipment"
+  },
+  {
+    "code": "3740",
+    "description": "Pest, Disease, Frost Control Equipment"
+  },
+  {
+    "code": "3750",
+    "description": "Gardening Implements and Tools"
+  },
+  {
+    "code": "3770",
+    "description": "Saddlery, Harness, Whips, Related Animal Furnishings"
+  },
+  {
+    "code": "3805",
+    "description": "Earth Moving and Excavating Equipment"
+  },
+  {
+    "code": "3810",
+    "description": "Cranes and Crane Shovels"
+  },
+  {
+    "code": "3815",
+    "description": "Crane and Crane Shovel Attachments"
+  },
+  {
+    "code": "3820",
+    "description": "Mining, Rock Drilling, Earth Boring, Related Equipment"
+  },
+  {
+    "code": "3825",
+    "description": "Road Clearing and Cleaning Equipment"
+  },
+  {
+    "code": "3830",
+    "description": "Truck and Tractor Attachment"
+  },
+  {
+    "code": "3835",
+    "description": "Petroleum Production and Distribution Equipment"
+  },
+  {
+    "code": "3895",
+    "description": "Miscellaneous Construction Equipment"
+  },
+  {
+    "code": "3910",
+    "description": "Conveyors"
+  },
+  {
+    "code": "3915",
+    "description": "Materials Feeders"
+  },
+  {
+    "code": "3920",
+    "description": "Materials Handling Equipment, Nonself-Propelled"
+  },
+  {
+    "code": "3930",
+    "description": "Warehouse Trucks and Tractors, Self-Propelled"
+  },
+  {
+    "code": "3940",
+    "description": "Block, Tackle, Rigging, Sling"
+  },
+  {
+    "code": "3950",
+    "description": "Winch, Hoist, Crane, Derrick"
+  },
+  {
+    "code": "3960",
+    "description": "Elevators and Escalators"
+  },
+  {
+    "code": "3990",
+    "description": "Miscellaneous Materials Handling Equipment"
+  },
+  {
+    "code": "4010",
+    "description": "Chain and Wire Rope"
+  },
+  {
+    "code": "4020",
+    "description": "Fiber Rope, Cordage, Twine"
+  },
+  {
+    "code": "4030",
+    "description": "Fitting for Rope, Cable, Chain"
+  },
+  {
+    "code": "4110",
+    "description": "Refrigeration Equipment"
+  },
+  {
+    "code": "4120",
+    "description": "Air Conditioning Equipment"
+  },
+  {
+    "code": "4130",
+    "description": "Refrigeration and Air Conditioning Components"
+  },
+  {
+    "code": "4140",
+    "description": "Fans, Air Circulators and Blower Equipment"
+  },
+  {
+    "code": "4150",
+    "description": "Vortex Tubes and Other Related Cooling Tubes"
+  },
+  {
+    "code": "4210",
+    "description": "Fire Fighting Equipment"
+  },
+  {
+    "code": "4220",
+    "description": "Marine Lifesaving and Diving Equipment"
+  },
+  {
+    "code": "4230",
+    "description": "Decontaminating and Impregnating Equipment"
+  },
+  {
+    "code": "4235",
+    "description": "Hazardous Material Spill Containment Cleanup Equipment and Material"
+  },
+  {
+    "code": "4240",
+    "description": "Safety and Rescue Equipment"
+  },
+  {
+    "code": "4250",
+    "description": "Recycling and Reclamation Equipment"
+  },
+  {
+    "code": "4310",
+    "description": "Compressors and Vacuum Pumps"
+  },
+  {
+    "code": "4320",
+    "description": "Power and Hand Pumps"
+  },
+  {
+    "code": "4330",
+    "description": "Centrifugal, Separators, and Pressure and Vacuum Filters"
+  },
+  {
+    "code": "4410",
+    "description": "Industrial Boilers"
+  },
+  {
+    "code": "4420",
+    "description": "Heat Exchange and Steam Condensers"
+  },
+  {
+    "code": "4430",
+    "description": "Industrial Furnaces, Kilns, Lehrs and Ovens"
+  },
+  {
+    "code": "4440",
+    "description": "Dryer, Dehydrators, Anhydrators"
+  },
+  {
+    "code": "4460",
+    "description": "Air Purification Equipment"
+  },
+  {
+    "code": "4510",
+    "description": "Plumbing Fixtures and Accessories"
+  },
+  {
+    "code": "4520",
+    "description": "Space Heat Equipment, Domestic Water Heater"
+  },
+  {
+    "code": "4530",
+    "description": "Fuel Burning Equipment Units"
+  },
+  {
+    "code": "4540",
+    "description": "Miscellaneous Plumbing, Heat and Sanitation Equipment"
+  },
+  {
+    "code": "4610",
+    "description": "Water Purification Equipment"
+  },
+  {
+    "code": "4620",
+    "description": "Water Distillation Equipment, Marine and Industrial"
+  },
+  {
+    "code": "4630",
+    "description": "Sewage Treatment Equipment"
+  },
+  {
+    "code": "4710",
+    "description": "Pipe and Tube"
+  },
+  {
+    "code": "4720",
+    "description": "Hose and Tubing, Flexible"
+  },
+  {
+    "code": "4730",
+    "description": "Fittings and Specialties; Hose, Pipe and Tube"
+  },
+  {
+    "code": "4810",
+    "description": "Valves, Powered"
+  },
+  {
+    "code": "4820",
+    "description": "Valves, Nonpowered"
+  },
+  {
+    "code": "4910",
+    "description": "Motor Vehicle Maintenance and Rep Shop Specialized Equipment"
+  },
+  {
+    "code": "4920",
+    "description": "Aircraft Maintenance and Rep Shop Specialized Equipment"
+  },
+  {
+    "code": "4921",
+    "description": "Torpedoes Maintenance, Rep, and Checkout Specialized Equipment"
+  },
+  {
+    "code": "4923",
+    "description": "Depth Charges and Underwater Mines Maintenance, Rep and Checkout"
+  },
+  {
+    "code": "4925",
+    "description": "Ammo Maintenance, Rep and Checkout Specialized Equipment"
+  },
+  {
+    "code": "4927",
+    "description": "Rocket Maintenance, Rep and Checkout Specialized Equipment"
+  },
+  {
+    "code": "4930",
+    "description": "Lubrication and Fuel Dispensing Equipment"
+  },
+  {
+    "code": "4931",
+    "description": "Fire Control Maintenance and Rep Shop Specialized Equipment"
+  },
+  {
+    "code": "4933",
+    "description": "Weapons Maintenance and Rep Shop Specialized Equipment"
+  },
+  {
+    "code": "4935",
+    "description": "Guided Missile Maintenance, Rep and Checkout Specialized Equipment"
+  },
+  {
+    "code": "4940",
+    "description": "Miscellaneous Maintenance and Rep Shop Specialized Equipment"
+  },
+  {
+    "code": "4960",
+    "description": "Space Vehicle Maintenance, Rep and Checkout Specialized Equipment"
+  },
+  {
+    "code": "4970",
+    "description": "Multiple Guided Weapons, Specialized Maintenance and Repair Shop Equipment"
+  },
+  {
+    "code": "5110",
+    "description": "Hand Tools, Edged, Nonpowered"
+  },
+  {
+    "code": "5120",
+    "description": "Hand Tools, Non-edged, Non-powered"
+  },
+  {
+    "code": "5130",
+    "description": "Hand Tools, Power Driven"
+  },
+  {
+    "code": "5133",
+    "description": "Drill Bits, Counterbores and Countersinks; Hand and Mach"
+  },
+  {
+    "code": "5136",
+    "description": "Taps, Dies, Collets, Hand and Machine"
+  },
+  {
+    "code": "5140",
+    "description": "Tool and Hardware Boxes"
+  },
+  {
+    "code": "5180",
+    "description": "Specialized Equipments, Kits, Outfits/Hand Tools"
+  },
+  {
+    "code": "5210",
+    "description": "Measuring Tools, Craftsmen's"
+  },
+  {
+    "code": "5220",
+    "description": "Inspection Gage and Precision Layout Tools"
+  },
+  {
+    "code": "5280",
+    "description": "Sets, kits and Outfits of Measuring Tools"
+  },
+  {
+    "code": "5305",
+    "description": "Screws"
+  },
+  {
+    "code": "5306",
+    "description": "Bolts"
+  },
+  {
+    "code": "5307",
+    "description": "Studs"
+  },
+  {
+    "code": "5310",
+    "description": "Nuts and Washers"
+  },
+  {
+    "code": "5315",
+    "description": "Nails, Machine Keys and Pins"
+  },
+  {
+    "code": "5320",
+    "description": "Rivets"
+  },
+  {
+    "code": "5325",
+    "description": "Fastening Devices"
+  },
+  {
+    "code": "5330",
+    "description": "Packing and Gasket Materials"
+  },
+  {
+    "code": "5331",
+    "description": "O-Rings"
+  },
+  {
+    "code": "5335",
+    "description": "Metal Screening"
+  },
+  {
+    "code": "5340",
+    "description": "Hardware, Commercial"
+  },
+  {
+    "code": "5341",
+    "description": "Brackets"
+  },
+  {
+    "code": "5342",
+    "description": "Hardware, Weapon System"
+  },
+  {
+    "code": "5345",
+    "description": "Disks and Stones, Abrasive"
+  },
+  {
+    "code": "5350",
+    "description": "Abrasive Materials"
+  },
+  {
+    "code": "5355",
+    "description": "Knobs and Pointers"
+  },
+  {
+    "code": "5360",
+    "description": "Coil, Flat and Wire Springs"
+  },
+  {
+    "code": "5365",
+    "description": "Bushings, Rings, Shims and Spacers"
+  },
+  {
+    "code": "5410",
+    "description": "Prefabricated Portable Buildings"
+  },
+  {
+    "code": "5411",
+    "description": "Rigid Wall Shelters"
+  },
+  {
+    "code": "5419",
+    "description": "Collective Modular Support System"
+  },
+  {
+    "code": "5420",
+    "description": "Bridges, Fixed and Floating"
+  },
+  {
+    "code": "5430",
+    "description": "Storage Tanks"
+  },
+  {
+    "code": "5440",
+    "description": "Scaffold Equipment and Concrete Forms"
+  },
+  {
+    "code": "5445",
+    "description": "Prefabricated Tower Structures"
+  },
+  {
+    "code": "5450",
+    "description": "Miscellaneous Prefab Structures"
+  },
+  {
+    "code": "5510",
+    "description": "Lumber and Related Basic Wood Materials"
+  },
+  {
+    "code": "5520",
+    "description": "Millwork"
+  },
+  {
+    "code": "5530",
+    "description": "Plywood and Veneer"
+  },
+  {
+    "code": "5610",
+    "description": "Mineral Construction Materials, Bulk"
+  },
+  {
+    "code": "5620",
+    "description": "Building Tile, Brick, and Block"
+  },
+  {
+    "code": "5630",
+    "description": "Pipe and Conduit, Nonmetallic"
+  },
+  {
+    "code": "5640",
+    "description": "Wallboard, Building Paper, Thermal Insulation Materials"
+  },
+  {
+    "code": "5650",
+    "description": "Roofing and Siding Materials"
+  },
+  {
+    "code": "5660",
+    "description": "Fencing, Fences, Gates and Components"
+  },
+  {
+    "code": "5670",
+    "description": "Building Components Prefabricated"
+  },
+  {
+    "code": "5675",
+    "description": "Non-Wood Construction, Lumber, and Related Material"
+  },
+  {
+    "code": "5680",
+    "description": "Miscellaneous Construction Materials"
+  },
+  {
+    "code": "5805",
+    "description": "Telephone and Telegraph Equipment"
+  },
+  {
+    "code": "5810",
+    "description": "Communications Security Equipment and Components"
+  },
+  {
+    "code": "5811",
+    "description": "Other Cryptologic Equipment and Components"
+  },
+  {
+    "code": "5815",
+    "description": "Teletype and Facsimile Equipment"
+  },
+  {
+    "code": "5820",
+    "description": "Radio and TV Communications Equipment, Except Airborne"
+  },
+  {
+    "code": "5821",
+    "description": "Radio and TV Communications Equipment, Airborne"
+  },
+  {
+    "code": "5825",
+    "description": "Radio and Navigation Equipment, Except Airborne"
+  },
+  {
+    "code": "5826",
+    "description": "Radio Navigation Equipment, Airborne"
+  },
+  {
+    "code": "5830",
+    "description": "Intercom and PA Systems, Except Airborne"
+  },
+  {
+    "code": "5831",
+    "description": "Telecommunications and PA Systems, Airborne"
+  },
+  {
+    "code": "5835",
+    "description": "Sound Recording and Reproducing Equipment"
+  },
+  {
+    "code": "5836",
+    "description": "Video Recording and Reproducing Equipment"
+  },
+  {
+    "code": "5840",
+    "description": "Radar Equipment, Except Airborne"
+  },
+  {
+    "code": "5841",
+    "description": "Radar Equipment, Airborne"
+  },
+  {
+    "code": "5845",
+    "description": "Underwater Sound Equipment"
+  },
+  {
+    "code": "5850",
+    "description": "Visible and Invisible Light Communications Equipment"
+  },
+  {
+    "code": "5855",
+    "description": "Night Vision Equipment, Emitted and Reflected Radiation"
+  },
+  {
+    "code": "5860",
+    "description": "Simulated Coherent Radiation Devices, Components, and Accessories"
+  },
+  {
+    "code": "5865",
+    "description": "Elect Countermeasures, Counter Countermeasures and Quick Reaction Capability Equipment"
+  },
+  {
+    "code": "5895",
+    "description": "Miscellaneous Communication Equipment"
+  },
+  {
+    "code": "5905",
+    "description": "Resistors"
+  },
+  {
+    "code": "5910",
+    "description": "Capacitors"
+  },
+  {
+    "code": "5915",
+    "description": "Filters and Networks"
+  },
+  {
+    "code": "5920",
+    "description": "Fuses, Arrestors, Absorbers and Protectors"
+  },
+  {
+    "code": "5925",
+    "description": "Circuit Breakers"
+  },
+  {
+    "code": "5930",
+    "description": "Switches"
+  },
+  {
+    "code": "5935",
+    "description": "Connectors, Electrical"
+  },
+  {
+    "code": "5940",
+    "description": "Lugs, Terminals, Terminal Strips"
+  },
+  {
+    "code": "5945",
+    "description": "Relays, Solenoids"
+  },
+  {
+    "code": "5950",
+    "description": "Coils, Transformers"
+  },
+  {
+    "code": "5955",
+    "description": "Oscillators, Piezoelectric Crystals"
+  },
+  {
+    "code": "5960",
+    "description": "Electron Tubes and Associated Hardware"
+  },
+  {
+    "code": "5961",
+    "description": "Semiconductor Devices and Associated Hardware"
+  },
+  {
+    "code": "5962",
+    "description": "Microcircuits, Electronic"
+  },
+  {
+    "code": "5963",
+    "description": "Electronic Modules"
+  },
+  {
+    "code": "5965",
+    "description": "Headsets, Handsets, Microphones, Speakers"
+  },
+  {
+    "code": "5970",
+    "description": "Electrical Insulators and lnsulating Materials"
+  },
+  {
+    "code": "5975",
+    "description": "Electric Hardware, Supplies"
+  },
+  {
+    "code": "5977",
+    "description": "Elect Contact Brushes, Electrodes"
+  },
+  {
+    "code": "5980",
+    "description": "Optoelectronic Devices and Assoc Hardware"
+  },
+  {
+    "code": "5985",
+    "description": "Antennas, Waveguides, Related Equipment"
+  },
+  {
+    "code": "5990",
+    "description": "Synchros and Resolvers"
+  },
+  {
+    "code": "5995",
+    "description": "Cable, Cord, Wire Assemblies; Communications Equipment"
+  },
+  {
+    "code": "5996",
+    "description": "Amplifiers"
+  },
+  {
+    "code": "5998",
+    "description": "Electrical, Electronic Assemblies; Boards, Cards, Assoc Hardware"
+  },
+  {
+    "code": "5999",
+    "description": "Miscellaneous Electrical and Electronic Components"
+  },
+  {
+    "code": "6005",
+    "description": "Couplers, Splitters, Mixers"
+  },
+  {
+    "code": "6006",
+    "description": "Attenuators"
+  },
+  {
+    "code": "6007",
+    "description": "Fiber Optic Filters"
+  },
+  {
+    "code": "6008",
+    "description": "Optical Multiplexers/Demultiplexers"
+  },
+  {
+    "code": "6010",
+    "description": "Fiber Optic Conductors"
+  },
+  {
+    "code": "6015",
+    "description": "Fiber Optic Cables"
+  },
+  {
+    "code": "6020",
+    "description": "Fiber Optic Cable Assemblies, Harnesses"
+  },
+  {
+    "code": "6021",
+    "description": "Fiber Optic Switches"
+  },
+  {
+    "code": "6025",
+    "description": "Fiber Optic Transmitters"
+  },
+  {
+    "code": "6026",
+    "description": "Fiber Optic Receivers"
+  },
+  {
+    "code": "6029",
+    "description": "Optical Repeaters"
+  },
+  {
+    "code": "6030",
+    "description": "Fiber Optic Devices"
+  },
+  {
+    "code": "6032",
+    "description": "Fiber Optic Light Sources and Photo Detectors"
+  },
+  {
+    "code": "6033",
+    "description": "Fiber Optic Photo Detectors"
+  },
+  {
+    "code": "6034",
+    "description": "Fiber Optic Modulators/Demodulator"
+  },
+  {
+    "code": "6035",
+    "description": "Fiber Optic Light Transfer/Image Transfer Devices"
+  },
+  {
+    "code": "6040",
+    "description": "Fiber Optic Sensors"
+  },
+  {
+    "code": "6050",
+    "description": "Fiber Optic Passive Devices"
+  },
+  {
+    "code": "6060",
+    "description": "Fiber Optic Interconnectors"
+  },
+  {
+    "code": "6070",
+    "description": "Fiber Optic Accessories and Supplies"
+  },
+  {
+    "code": "6080",
+    "description": "Fiber Optic Kits and Sets"
+  },
+  {
+    "code": "6099",
+    "description": "Miscellaneous Fiber Optic Components"
+  },
+  {
+    "code": "6105",
+    "description": "Motors, Electrical"
+  },
+  {
+    "code": "6110",
+    "description": "Electrical Control Equipment"
+  },
+  {
+    "code": "6115",
+    "description": "Generators and Generator Sets, Electrical"
+  },
+  {
+    "code": "6116",
+    "description": "Fuel Cell Power Units, Components and Accessories"
+  },
+  {
+    "code": "6117",
+    "description": "Solar Electrical Power Systems"
+  },
+  {
+    "code": "6120",
+    "description": "Transformers, Distribution, and Power Stations"
+  },
+  {
+    "code": "6125",
+    "description": "Converters, Electrical, Rotating"
+  },
+  {
+    "code": "6130",
+    "description": "Converters, Electrical, Nonrotating"
+  },
+  {
+    "code": "6135",
+    "description": "Batteries, Nonrechargeable"
+  },
+  {
+    "code": "6140",
+    "description": "Batteries, Rechargeable"
+  },
+  {
+    "code": "6145",
+    "description": "Wire and Cable, Elect"
+  },
+  {
+    "code": "6150",
+    "description": "Miscellaneous Elect Power and Distribution Equipment"
+  },
+  {
+    "code": "6160",
+    "description": "Miscellaneous Battery Retaining Fixtures and Liners"
+  },
+  {
+    "code": "6210",
+    "description": "Indoor, Outdoor Elect Lighting Fixtures"
+  },
+  {
+    "code": "6220",
+    "description": "Electric Vehicle Lights, Fixtures"
+  },
+  {
+    "code": "6230",
+    "description": "Electric Portable and Hand Lighting Equipment"
+  },
+  {
+    "code": "6240",
+    "description": "Electric Lamps"
+  },
+  {
+    "code": "6250",
+    "description": "Ballasts, Lampholders, Starters"
+  },
+  {
+    "code": "6260",
+    "description": "Nonelectrical Lighting Fixtures"
+  },
+  {
+    "code": "6310",
+    "description": "Traffic and Transit Signal Systems"
+  },
+  {
+    "code": "6320",
+    "description": "Shipboard Alarm and Signal Systems"
+  },
+  {
+    "code": "6330",
+    "description": "Railroad Signal and Warning Devices"
+  },
+  {
+    "code": "6340",
+    "description": "Aircraft Alarm and Signal Systems"
+  },
+  {
+    "code": "6350",
+    "description": "Miscellaneous Alarm Signal and Security Detection Systems"
+  },
+  {
+    "code": "6505",
+    "description": "Drugs and Biologicals"
+  },
+  {
+    "code": "6508",
+    "description": "Medicated Cosmetics and Toiletries"
+  },
+  {
+    "code": "6510",
+    "description": "Surgical Dressing Materials"
+  },
+  {
+    "code": "6515",
+    "description": "Med, Surgical Instruments, Equipment and Supplies"
+  },
+  {
+    "code": "6520",
+    "description": "Dental Instruments, Equipment and Supplies"
+  },
+  {
+    "code": "6525",
+    "description": "X-Ray Equipment and Supplies: Medical, Dental, Veterinary"
+  },
+  {
+    "code": "6530",
+    "description": "Hospital Furniture, Equipment, Utensils, Supplies"
+  },
+  {
+    "code": "6532",
+    "description": "Hospital, Surgical Clothing, Related Spec Purpose Items"
+  },
+  {
+    "code": "6540",
+    "description": "Ophthalmic Instruments, Equipment and Supplies"
+  },
+  {
+    "code": "6545",
+    "description": "Replenishable Field Med Sets, Kits and Outfits"
+  },
+  {
+    "code": "6550",
+    "description": "In-Vitro Diagnostic Substances, Reagents, Test Kits and Sets"
+  },
+  {
+    "code": "6605",
+    "description": "Navigational Instruments"
+  },
+  {
+    "code": "6610",
+    "description": "Flight Instruments"
+  },
+  {
+    "code": "6615",
+    "description": "Auto Pilot Mechanisms and Airborne Gyro Components"
+  },
+  {
+    "code": "6620",
+    "description": "Engine Instruments"
+  },
+  {
+    "code": "6625",
+    "description": "Electrical and Electronic Properties Measuring, Test Instruments"
+  },
+  {
+    "code": "6630",
+    "description": "Chemical Analysis Instruments"
+  },
+  {
+    "code": "6635",
+    "description": "Physical Properties Testing and Inspection Equipment"
+  },
+  {
+    "code": "6636",
+    "description": "Environmental Chambers and Related Equipment"
+  },
+  {
+    "code": "6640",
+    "description": "Lab Equipment and Supplies"
+  },
+  {
+    "code": "6645",
+    "description": "Time Measuring Instruments"
+  },
+  {
+    "code": "6650",
+    "description": "Optical Instruments, Test Equipment, Components and Accessories"
+  },
+  {
+    "code": "6655",
+    "description": "Geophysical Instruments"
+  },
+  {
+    "code": "6660",
+    "description": "Meteorological Instruments and Apparatus"
+  },
+  {
+    "code": "6665",
+    "description": "Hazard-Detecting Instruments and Apparatus"
+  },
+  {
+    "code": "6670",
+    "description": "Scales and Balances"
+  },
+  {
+    "code": "6675",
+    "description": "Drafting, Surveying, and Mapping Instruments"
+  },
+  {
+    "code": "6680",
+    "description": "Liquid, Gas Flow, Liquid Level and Mechanisms Motion Measuring Instruments"
+  },
+  {
+    "code": "6685",
+    "description": "Pressure, Temp, and Humidity Measurement and Control Instruments"
+  },
+  {
+    "code": "6695",
+    "description": "Combination and Miscellaneous Instruments"
+  },
+  {
+    "code": "6710",
+    "description": "Cameras, Motion Picture"
+  },
+  {
+    "code": "6720",
+    "description": "Cameras, Still Picture"
+  },
+  {
+    "code": "6730",
+    "description": "Photo Projection Equipment"
+  },
+  {
+    "code": "6740",
+    "description": "Photo Developing and Finishing Equipment"
+  },
+  {
+    "code": "6750",
+    "description": "Photo Supplies"
+  },
+  {
+    "code": "6760",
+    "description": "Photo Equipment and Accessories"
+  },
+  {
+    "code": "6770",
+    "description": "Film, Processed"
+  },
+  {
+    "code": "6780",
+    "description": "Photo Sets, Kits, and Outfits"
+  },
+  {
+    "code": "6810",
+    "description": "Chemicals"
+  },
+  {
+    "code": "6820",
+    "description": "Dyes"
+  },
+  {
+    "code": "6830",
+    "description": "Gases: Compressed and Liquefied"
+  },
+  {
+    "code": "6840",
+    "description": "Pest Control Agents and Disinfectants"
+  },
+  {
+    "code": "6850",
+    "description": "Miscellaneous Chemical Specialties"
+  },
+  {
+    "code": "6910",
+    "description": "Training Aids"
+  },
+  {
+    "code": "6920",
+    "description": "Armament Training Devices"
+  },
+  {
+    "code": "6930",
+    "description": "Operation Training Devices"
+  },
+  {
+    "code": "6940",
+    "description": "Communications Training Devices"
+  },
+  {
+    "code": "7010",
+    "description": "ADPE Systems Configuration"
+  },
+  {
+    "code": "7020",
+    "description": "ADP Cent Processing Unit (CPU, Computer), Analog"
+  },
+  {
+    "code": "7021",
+    "description": "ADP Cent Processing Unit (CPU, Computer), Digital"
+  },
+  {
+    "code": "7022",
+    "description": "ADP Cent Processing Unit (CPU, Computer), Hybrid"
+  },
+  {
+    "code": "7025",
+    "description": "ADP Input/Output and Storage Devices"
+  },
+  {
+    "code": "7030",
+    "description": "ADP Software"
+  },
+  {
+    "code": "7035",
+    "description": "ADP Supplies and Equipment"
+  },
+  {
+    "code": "7040",
+    "description": "Punched Card Equipment"
+  },
+  {
+    "code": "7042",
+    "description": "Mini and Micro Computer Control Devices"
+  },
+  {
+    "code": "7045",
+    "description": "ADP Supplies"
+  },
+  {
+    "code": "7050",
+    "description": "ADP Components"
+  },
+  {
+    "code": "7105",
+    "description": "Household Furniture"
+  },
+  {
+    "code": "7110",
+    "description": "Office Furniture"
+  },
+  {
+    "code": "7125",
+    "description": "Cabinets, Lockers, Bins, Shelving"
+  },
+  {
+    "code": "7195",
+    "description": "Miscellaneous Furniture and Fixtures"
+  },
+  {
+    "code": "7210",
+    "description": "Household Furnishings"
+  },
+  {
+    "code": "7220",
+    "description": "Floor Coverings"
+  },
+  {
+    "code": "7230",
+    "description": "Draperies, Awnings and Shades"
+  },
+  {
+    "code": "7240",
+    "description": "Household and Commercial Utility Containers"
+  },
+  {
+    "code": "7290",
+    "description": "Miscellaneous Household Commercial Furnishings and Appliances"
+  },
+  {
+    "code": "7310",
+    "description": "Food Cooking, Baking and Servicing Equipment"
+  },
+  {
+    "code": "7320",
+    "description": "Kitchen Equipment and Appliances"
+  },
+  {
+    "code": "7330",
+    "description": "Kitchen Hand Tools and Utensils"
+  },
+  {
+    "code": "7340",
+    "description": "Cutlery and Flatware"
+  },
+  {
+    "code": "7350",
+    "description": "Tableware"
+  },
+  {
+    "code": "7360",
+    "description": "Sets, Kits, Outfits and Modules, Food Preparation and Serving"
+  },
+  {
+    "code": "7420",
+    "description": "Accounting and Calculating Mach"
+  },
+  {
+    "code": "7430",
+    "description": "Typewriters and Office Type Composing Mach"
+  },
+  {
+    "code": "7435",
+    "description": "Office Info Systems Equipment"
+  },
+  {
+    "code": "7450",
+    "description": "Office Type Sound Recording and Reproducing Mach"
+  },
+  {
+    "code": "7460",
+    "description": "Visible Record Equipment* *"
+  },
+  {
+    "code": "7490",
+    "description": "Miscellaneous Office Machines"
+  },
+  {
+    "code": "7510",
+    "description": "Office Supplies"
+  },
+  {
+    "code": "7520",
+    "description": "Office Devices and Accessories"
+  },
+  {
+    "code": "7530",
+    "description": "Stationery and Record Forms"
+  },
+  {
+    "code": "7540",
+    "description": "Standard Forms"
+  },
+  {
+    "code": "7610",
+    "description": "Books and Pamphlets"
+  },
+  {
+    "code": "7630",
+    "description": "Newspapers and Periodicals"
+  },
+  {
+    "code": "7640",
+    "description": "Maps, Atlases, Charts and Globes"
+  },
+  {
+    "code": "7641",
+    "description": "Aeronautical Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)"
+  },
+  {
+    "code": "7642",
+    "description": "Hydrographic Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)"
+  },
+  {
+    "code": "7643",
+    "description": "Topographic Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)"
+  },
+  {
+    "code": "7644",
+    "description": "Digital Mapping, Charting, and Geodetic Products (located at Richmond, DSCR-JN)"
+  },
+  {
+    "code": "7650",
+    "description": "Drawings and Specifications"
+  },
+  {
+    "code": "7660",
+    "description": "Sheet and Book Music"
+  },
+  {
+    "code": "7670",
+    "description": "Microfilm, Processed"
+  },
+  {
+    "code": "7690",
+    "description": "Miscellaneous Printed Matter"
+  },
+  {
+    "code": "7710",
+    "description": "Musical Instruments"
+  },
+  {
+    "code": "7720",
+    "description": "Musical Instruments Parts and Accessories"
+  },
+  {
+    "code": "7730",
+    "description": "Phonograph, Radio and TVs, Home-type"
+  },
+  {
+    "code": "7740",
+    "description": "Phonograph Records"
+  },
+  {
+    "code": "7810",
+    "description": "Athletic and Sporting Equipment"
+  },
+  {
+    "code": "7820",
+    "description": "Games, Toys, Wheeled, Goods"
+  },
+  {
+    "code": "7830",
+    "description": "Recreation and Gym Equipment"
+  },
+  {
+    "code": "7910",
+    "description": "Floor Polishers and Vacuum Cleaning Equipment"
+  },
+  {
+    "code": "7920",
+    "description": "Brooms, Brushes, Mops, Sponges"
+  },
+  {
+    "code": "7930",
+    "description": "Cleaning and Polishing Compounds and Prep"
+  },
+  {
+    "code": "8010",
+    "description": "Paints, Dopes, Varnishes and Related"
+  },
+  {
+    "code": "8020",
+    "description": "Paint and Artists' Brushes"
+  },
+  {
+    "code": "8030",
+    "description": "Preservative and Sealing Compounds"
+  },
+  {
+    "code": "8040",
+    "description": "Adhesives"
+  },
+  {
+    "code": "8105",
+    "description": "Bags and Sacks"
+  },
+  {
+    "code": "8110",
+    "description": "Drums and Cans"
+  },
+  {
+    "code": "8115",
+    "description": "Boxes, Cartons, Crates"
+  },
+  {
+    "code": "8120",
+    "description": "Commercial and Industrial Gas Cylinders"
+  },
+  {
+    "code": "8125",
+    "description": "Bottles and Jars"
+  },
+  {
+    "code": "8130",
+    "description": "Reels and Spools"
+  },
+  {
+    "code": "8135",
+    "description": "Packaging and Packing Bulk Materials"
+  },
+  {
+    "code": "8140",
+    "description": "Ammo and Nuclear Ordnance Boxes, Packages and Specialized Containers"
+  },
+  {
+    "code": "8145",
+    "description": "Special Ship and Storage Containers"
+  },
+  {
+    "code": "8305",
+    "description": "Textile Fabrics"
+  },
+  {
+    "code": "8310",
+    "description": "Yarn and Thread"
+  },
+  {
+    "code": "8315",
+    "description": "Notions and Apparel Findings"
+  },
+  {
+    "code": "8320",
+    "description": "Padding and Stuffing Materials"
+  },
+  {
+    "code": "8325",
+    "description": "Fur Materials"
+  },
+  {
+    "code": "8330",
+    "description": "Leather"
+  },
+  {
+    "code": "8335",
+    "description": "Shoe Findings and Soling Materials"
+  },
+  {
+    "code": "8340",
+    "description": "Tents and Tarpaulins"
+  },
+  {
+    "code": "8345",
+    "description": "Flags and Pennants"
+  },
+  {
+    "code": "8405",
+    "description": "Outerwear, Men"
+  },
+  {
+    "code": "8410",
+    "description": "Outerwear, Women"
+  },
+  {
+    "code": "8415",
+    "description": "Clothing, Special Purpose"
+  },
+  {
+    "code": "8420",
+    "description": "Underwear and Nightwear, Men"
+  },
+  {
+    "code": "8425",
+    "description": "Underwear and Nightwear, Women"
+  },
+  {
+    "code": "8430",
+    "description": "Footwear, Men"
+  },
+  {
+    "code": "8435",
+    "description": "Footwear, Women"
+  },
+  {
+    "code": "8440",
+    "description": "Hosiery, Handwear and Clothing"
+  },
+  {
+    "code": "8445",
+    "description": "Hosiery, Handwear and Clothing Accessories, Women"
+  },
+  {
+    "code": "8450",
+    "description": "Child and Infant Apparel and Accessories"
+  },
+  {
+    "code": "8455",
+    "description": "Badges and Insignia"
+  },
+  {
+    "code": "8460",
+    "description": "Luggage"
+  },
+  {
+    "code": "8465",
+    "description": "Individual Equipment"
+  },
+  {
+    "code": "8470",
+    "description": "Armor, Personal"
+  },
+  {
+    "code": "8475",
+    "description": "Spec Flight Clothing and Accessories"
+  },
+  {
+    "code": "8510",
+    "description": "Perfumes, Toilet Preparations and Powders"
+  },
+  {
+    "code": "8520",
+    "description": "Toilet Soap, Shave Prep and Dentifrices"
+  },
+  {
+    "code": "8530",
+    "description": "Personal Toiletry Articles"
+  },
+  {
+    "code": "8540",
+    "description": "Toiletry Paper Products"
+  },
+  {
+    "code": "8710",
+    "description": "Forage and Feed"
+  },
+  {
+    "code": "8720",
+    "description": "Fertilizers"
+  },
+  {
+    "code": "8730",
+    "description": "Seeds and Nursery Stock"
+  },
+  {
+    "code": "8810",
+    "description": "Live Animals, Raised for Food*"
+  },
+  {
+    "code": "8820",
+    "description": "Live Animals, Not for Food*"
+  },
+  {
+    "code": "8905",
+    "description": "Meat, Poultry and Fish*"
+  },
+  {
+    "code": "8910",
+    "description": "Dairy Foods and Eggs*"
+  },
+  {
+    "code": "8915",
+    "description": "Fruits and Vegetables*"
+  },
+  {
+    "code": "8920",
+    "description": "Bakery and Cereal Products*"
+  },
+  {
+    "code": "8925",
+    "description": "Sugar, Confectionery and Nuts*"
+  },
+  {
+    "code": "8930",
+    "description": "Jams, Jellies and Preserves*"
+  },
+  {
+    "code": "8935",
+    "description": "Soups and Bouillons*"
+  },
+  {
+    "code": "8940",
+    "description": "Special Dietary Foods and Food Specialty Preparations*"
+  },
+  {
+    "code": "8945",
+    "description": "Food, Oils and Fats*"
+  },
+  {
+    "code": "8950",
+    "description": "Condiments and Related Products*"
+  },
+  {
+    "code": "8955",
+    "description": "Coffee, Tea and Cocoa*"
+  },
+  {
+    "code": "8960",
+    "description": "Beverages, Nonalcoholic*"
+  },
+  {
+    "code": "8965",
+    "description": "Beverages, Alcoholic*"
+  },
+  {
+    "code": "8970",
+    "description": "Composite Food Packages*"
+  },
+  {
+    "code": "8975",
+    "description": "Tobacco Products"
+  },
+  {
+    "code": "9110",
+    "description": "Fuels, Solid"
+  },
+  {
+    "code": "9130",
+    "description": "Liquid Propulsion and Fuels, Petroleum Base"
+  },
+  {
+    "code": "9140",
+    "description": "Fuel Oils"
+  },
+  {
+    "code": "9150",
+    "description": "Oils and Greases: Cutting, Lubricating, and Hydraulic"
+  },
+  {
+    "code": "9160",
+    "description": "Miscellaneous Waxes, Oils and Fats"
+  },
+  {
+    "code": "9310",
+    "description": "Paper and Paperboard"
+  },
+  {
+    "code": "9320",
+    "description": "Rubber Fabricated Materials"
+  },
+  {
+    "code": "9330",
+    "description": "Plastics Fabricated Materials"
+  },
+  {
+    "code": "9340",
+    "description": "Glass Fabricated Materials"
+  },
+  {
+    "code": "9350",
+    "description": "Refractories and Fire Surfacing Materials"
+  },
+  {
+    "code": "9390",
+    "description": "Miscellaneous Fabricated Nonmetal Materials"
+  },
+  {
+    "code": "9410",
+    "description": "Crude Grades of Plant Materials"
+  },
+  {
+    "code": "9420",
+    "description": "Fibers: Vegetable, Animal and Synthetic"
+  },
+  {
+    "code": "9430",
+    "description": "Miscellaneous Crude Animal Products, Inedible"
+  },
+  {
+    "code": "9440",
+    "description": "Miscellaneous Crude Agricultural and Forest Products"
+  },
+  {
+    "code": "9450",
+    "description": "Nonmetallic Scrap, Except Textile"
+  },
+  {
+    "code": "9505",
+    "description": "Wire, Nonelectrical"
+  },
+  {
+    "code": "9510",
+    "description": "Bars and Rods"
+  },
+  {
+    "code": "9515",
+    "description": "Plate, Sheet, Strip, Foil and Leaf"
+  },
+  {
+    "code": "9520",
+    "description": "Structural Shapes"
+  },
+  {
+    "code": "9525",
+    "description": "Wire, Nonelectrical, Nonferrous Base Metal"
+  },
+  {
+    "code": "9530",
+    "description": "Bars and Rods, Nonferrous Base Metal"
+  },
+  {
+    "code": "9535",
+    "description": "Plate, Sheet, Strip and Foil: Nonferrous Base Metal"
+  },
+  {
+    "code": "9540",
+    "description": "Structural Shapes, Nonferrous Base Metal"
+  },
+  {
+    "code": "9545",
+    "description": "Plate, Sheet, Strip, Foil, and Wire: Precious Metal"
+  },
+  {
+    "code": "9610",
+    "description": "Ores"
+  },
+  {
+    "code": "9620",
+    "description": "Minerals, Natural and Synthetic"
+  },
+  {
+    "code": "9630",
+    "description": "Additive Metal Materials"
+  },
+  {
+    "code": "9640",
+    "description": "Iron and Steel Primary and Semi-finished Products"
+  },
+  {
+    "code": "9650",
+    "description": "Nonferrous Base Metal Refinery and Intermediate Forms"
+  },
+  {
+    "code": "9660",
+    "description": "Precious Metals Primary Forms"
+  },
+  {
+    "code": "9670",
+    "description": "Iron and Steel Scrap"
+  },
+  {
+    "code": "9680",
+    "description": "Nonferrous Metal Scrap"
+  },
+  {
+    "code": "9905",
+    "description": "Signs, Advertising Displays, Displays, and ID Plates"
+  },
+  {
+    "code": "9910",
+    "description": "Jewelry"
+  },
+  {
+    "code": "9915",
+    "description": "Collectors and/or Historical Items"
+  },
+  {
+    "code": "9920",
+    "description": "Smokers' Articles and Matches"
+  },
+  {
+    "code": "9925",
+    "description": "Ecclesiastical Equipment, Furnishings and Supplies"
+  },
+  {
+    "code": "9930",
+    "description": "Memorials, Cemeterial and Mortuary Equipment Supplies"
+  },
+  {
+    "code": "9999",
+    "description": "Miscellaneous Items"
+  }
+]

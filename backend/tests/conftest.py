@@ -1,7 +1,7 @@
 """All automated tests are offline; external service seams are mocked."""
 from unittest.mock import Mock
 
-import fitz
+import pymupdf
 import pytest
 from fastapi.testclient import TestClient
 
@@ -41,7 +41,7 @@ def client(external):
 
 @pytest.fixture
 def pdf_bytes():
-    with fitz.open() as document:
+    with pymupdf.open() as document:
         page = document.new_page()
         page.insert_text((72, 72), "Unseen Cable Works manufactures stainless steel wire rope and chain.")
         return document.tobytes()
